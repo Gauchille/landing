@@ -1,0 +1,23 @@
+.banner {
+  height: 500px ;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner-content {
+  color: white;
+  padding: 40px;
+}
+
+.banner-content a {
+  padding: 10px 25px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(32, 34, 201);
+}
